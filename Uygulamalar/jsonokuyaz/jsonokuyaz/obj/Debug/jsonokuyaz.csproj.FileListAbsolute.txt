@@ -1,0 +1,13 @@
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\bin\Debug\jsonokuyaz.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\bin\Debug\jsonokuyaz.exe
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\bin\Debug\jsonokuyaz.pdb
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\obj\Debug\jsonokuyaz.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\obj\Debug\jsonokuyaz.jsonfrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\obj\Debug\jsonokuyaz.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\obj\Debug\jsonokuyaz.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\obj\Debug\jsonokuyaz.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\obj\Debug\jsonokuyaz.exe
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\obj\Debug\jsonokuyaz.pdb
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\bin\Debug\Newtonsoft.Json.dll
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\bin\Debug\Newtonsoft.Json.xml
+D:\Belgeler\Visual Studio 2019\Projects\jsonokuyaz\jsonokuyaz\obj\Debug\jsonokuyaz.csproj.CopyComplete

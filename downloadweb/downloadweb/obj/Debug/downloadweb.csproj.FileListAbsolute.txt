@@ -1,0 +1,19 @@
+d:\belgeler\visual studio 2015\Projects\downloadweb\downloadweb\bin\Debug\downloadweb.exe.config
+d:\belgeler\visual studio 2015\Projects\downloadweb\downloadweb\bin\Debug\downloadweb.exe
+d:\belgeler\visual studio 2015\Projects\downloadweb\downloadweb\bin\Debug\downloadweb.pdb
+d:\belgeler\visual studio 2015\Projects\downloadweb\downloadweb\obj\Debug\downloadweb.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\downloadweb\downloadweb\obj\Debug\downloadweb.downloadWebFrm.resources
+d:\belgeler\visual studio 2015\Projects\downloadweb\downloadweb\obj\Debug\downloadweb.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\downloadweb\downloadweb\obj\Debug\downloadweb.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\downloadweb\downloadweb\obj\Debug\downloadweb.exe
+d:\belgeler\visual studio 2015\Projects\downloadweb\downloadweb\obj\Debug\downloadweb.pdb
+C:\Users\ibrahim\Desktop\downloadweb\downloadweb\bin\Debug\downloadweb.exe.config
+C:\Users\ibrahim\Desktop\downloadweb\downloadweb\bin\Debug\downloadweb.exe
+C:\Users\ibrahim\Desktop\downloadweb\downloadweb\bin\Debug\downloadweb.pdb
+C:\Users\ibrahim\Desktop\downloadweb\downloadweb\obj\Debug\downloadweb.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\downloadweb\downloadweb\obj\Debug\downloadweb.downloadWebFrm.resources
+C:\Users\ibrahim\Desktop\downloadweb\downloadweb\obj\Debug\downloadweb.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\downloadweb\downloadweb\obj\Debug\downloadweb.csproj.GenerateResource.cache
+C:\Users\ibrahim\Desktop\downloadweb\downloadweb\obj\Debug\downloadweb.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\downloadweb\downloadweb\obj\Debug\downloadweb.exe
+C:\Users\ibrahim\Desktop\downloadweb\downloadweb\obj\Debug\downloadweb.pdb

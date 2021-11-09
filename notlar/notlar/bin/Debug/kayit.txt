@@ -1,0 +1,5 @@
+Görsel Programlama-I - Vize - 60
+Türk Dili-II - Vize - 70
+Yabancı Dil-II - Vize - 30
+a - 1 - 12
+b - b - 80

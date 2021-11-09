@@ -1,0 +1,12 @@
+d:\belgeler\visual studio 2015\Projects\dosyaislem3\dosyaislem3\bin\Debug\dosyaislem3.exe.config
+d:\belgeler\visual studio 2015\Projects\dosyaislem3\dosyaislem3\bin\Debug\dosyaislem3.exe
+d:\belgeler\visual studio 2015\Projects\dosyaislem3\dosyaislem3\bin\Debug\dosyaislem3.pdb
+d:\belgeler\visual studio 2015\Projects\dosyaislem3\dosyaislem3\obj\Debug\dosyaislem3.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\dosyaislem3\dosyaislem3\obj\Debug\dosyaislem3.Form1.resources
+d:\belgeler\visual studio 2015\Projects\dosyaislem3\dosyaislem3\obj\Debug\dosyaislem3.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\dosyaislem3\dosyaislem3\obj\Debug\dosyaislem3.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\dosyaislem3\dosyaislem3\obj\Debug\dosyaislem3.exe
+d:\belgeler\visual studio 2015\Projects\dosyaislem3\dosyaislem3\obj\Debug\dosyaislem3.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaislem3\dosyaislem3\bin\Debug\dosyaislem3.exe.config
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaislem3\dosyaislem3\obj\Debug\dosyaislem3.exe
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaislem3\dosyaislem3\obj\Debug\dosyaislem3.pdb

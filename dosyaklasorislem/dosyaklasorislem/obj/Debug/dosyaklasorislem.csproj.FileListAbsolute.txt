@@ -1,0 +1,18 @@
+d:\belgeler\visual studio 2015\Projects\dosyaklasorislem\dosyaklasorislem\bin\Debug\dosyaklasorislem.exe.config
+d:\belgeler\visual studio 2015\Projects\dosyaklasorislem\dosyaklasorislem\bin\Debug\dosyaklasorislem.exe
+d:\belgeler\visual studio 2015\Projects\dosyaklasorislem\dosyaklasorislem\bin\Debug\dosyaklasorislem.pdb
+d:\belgeler\visual studio 2015\Projects\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.Form1.resources
+d:\belgeler\visual studio 2015\Projects\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.exe
+d:\belgeler\visual studio 2015\Projects\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaklasorislem\dosyaklasorislem\bin\Debug\dosyaklasorislem.exe.config
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.exe
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaklasorislem\dosyaklasorislem\bin\Debug\dosyaklasorislem.exe
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaklasorislem\dosyaklasorislem\bin\Debug\dosyaklasorislem.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.Form1.resources
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaklasorislem\dosyaklasorislem\obj\Debug\dosyaklasorislem.csproj.GenerateResource.Cache

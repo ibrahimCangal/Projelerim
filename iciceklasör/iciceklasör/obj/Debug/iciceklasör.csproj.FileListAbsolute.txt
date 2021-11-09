@@ -1,0 +1,8 @@
+d:\belgeler\visual studio 2015\Projects\iciceklasör\iciceklasör\bin\Debug\iciceklasör.exe.config
+d:\belgeler\visual studio 2015\Projects\iciceklasör\iciceklasör\bin\Debug\iciceklasör.exe
+d:\belgeler\visual studio 2015\Projects\iciceklasör\iciceklasör\bin\Debug\iciceklasör.pdb
+d:\belgeler\visual studio 2015\Projects\iciceklasör\iciceklasör\obj\Debug\iciceklasör.Form1.resources
+d:\belgeler\visual studio 2015\Projects\iciceklasör\iciceklasör\obj\Debug\iciceklasör.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\iciceklasör\iciceklasör\obj\Debug\iciceklasör.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\iciceklasör\iciceklasör\obj\Debug\iciceklasör.exe
+d:\belgeler\visual studio 2015\Projects\iciceklasör\iciceklasör\obj\Debug\iciceklasör.pdb

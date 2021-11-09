@@ -1,0 +1,14 @@
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\obj\Debug\netstandard2.0\XFHesapMak.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\obj\Debug\netstandard2.0\XFHesapMak.AssemblyInfoInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\obj\Debug\netstandard2.0\XFHesapMak.AssemblyInfo.cs
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\obj\Debug\netstandard2.0\XFHesapMak.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\obj\Debug\netstandard2.0\XFHesapMak.dll
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\obj\Debug\netstandard2.0\ref\XFHesapMak.dll
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\obj\Debug\netstandard2.0\XFHesapMak.pdb
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\bin\Debug\netstandard2.0\XFHesapMak.deps.json
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\bin\Debug\netstandard2.0\XFHesapMak.dll
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\bin\Debug\netstandard2.0\ref\XFHesapMak.dll
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\bin\Debug\netstandard2.0\XFHesapMak.pdb
+D:\Belgeler\Visual Studio 2019\Projects\XFHesapMak\XFHesapMak\XFHesapMak\obj\Debug\netstandard2.0\XamlC.stamp

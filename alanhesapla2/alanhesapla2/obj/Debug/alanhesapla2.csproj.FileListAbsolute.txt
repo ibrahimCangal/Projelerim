@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2015\Projects\alanhesapla2\alanhesapla2\bin\Debug\alanhesapla2.exe.config
+d:\belgeler\visual studio 2015\Projects\alanhesapla2\alanhesapla2\bin\Debug\alanhesapla2.exe
+d:\belgeler\visual studio 2015\Projects\alanhesapla2\alanhesapla2\bin\Debug\alanhesapla2.pdb
+d:\belgeler\visual studio 2015\Projects\alanhesapla2\alanhesapla2\obj\Debug\alanhesapla2.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\alanhesapla2\alanhesapla2\obj\Debug\alanhesapla2.Form1.resources
+d:\belgeler\visual studio 2015\Projects\alanhesapla2\alanhesapla2\obj\Debug\alanhesapla2.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\alanhesapla2\alanhesapla2\obj\Debug\alanhesapla2.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\alanhesapla2\alanhesapla2\obj\Debug\alanhesapla2.exe
+d:\belgeler\visual studio 2015\Projects\alanhesapla2\alanhesapla2\obj\Debug\alanhesapla2.pdb

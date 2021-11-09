@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\csvokuyaz\csvokuyaz\bin\Debug\csvokuyaz.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\csvokuyaz\csvokuyaz\bin\Debug\csvokuyaz.exe
+D:\Belgeler\Visual Studio 2019\Projects\csvokuyaz\csvokuyaz\bin\Debug\csvokuyaz.pdb
+D:\Belgeler\Visual Studio 2019\Projects\csvokuyaz\csvokuyaz\obj\Debug\csvokuyaz.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\csvokuyaz\csvokuyaz\obj\Debug\csvokuyaz.csvfrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\csvokuyaz\csvokuyaz\obj\Debug\csvokuyaz.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\csvokuyaz\csvokuyaz\obj\Debug\csvokuyaz.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\csvokuyaz\csvokuyaz\obj\Debug\csvokuyaz.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\csvokuyaz\csvokuyaz\obj\Debug\csvokuyaz.exe
+D:\Belgeler\Visual Studio 2019\Projects\csvokuyaz\csvokuyaz\obj\Debug\csvokuyaz.pdb

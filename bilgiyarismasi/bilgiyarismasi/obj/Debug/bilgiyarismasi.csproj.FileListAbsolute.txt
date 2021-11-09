@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\bilgiyarismasi\bilgiyarismasi\bin\Debug\bilgiyarismasi.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\bilgiyarismasi\bilgiyarismasi\bin\Debug\bilgiyarismasi.exe
+D:\Belgeler\Visual Studio 2019\Projects\bilgiyarismasi\bilgiyarismasi\bin\Debug\bilgiyarismasi.pdb
+D:\Belgeler\Visual Studio 2019\Projects\bilgiyarismasi\bilgiyarismasi\obj\Debug\bilgiyarismasi.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\bilgiyarismasi\bilgiyarismasi\obj\Debug\bilgiyarismasi.bilgifrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\bilgiyarismasi\bilgiyarismasi\obj\Debug\bilgiyarismasi.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\bilgiyarismasi\bilgiyarismasi\obj\Debug\bilgiyarismasi.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\bilgiyarismasi\bilgiyarismasi\obj\Debug\bilgiyarismasi.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\bilgiyarismasi\bilgiyarismasi\obj\Debug\bilgiyarismasi.exe
+D:\Belgeler\Visual Studio 2019\Projects\bilgiyarismasi\bilgiyarismasi\obj\Debug\bilgiyarismasi.pdb

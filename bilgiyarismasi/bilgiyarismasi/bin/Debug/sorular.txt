@@ -1,0 +1,5 @@
+Türkiyenin başkenti hangi ilimizdir?;A)İstanbul;B)Ankara;C)Isparta;D)İzmir;1
+Pamukkale hangi ilimizde yer almaktadır?;A)Antalya;B)Ankara;C)Diyarbakır;D)Denizli;3
+Balıklıgöl hangi ilimizde yer almaktadır?;A)Antalya;B)Konya;C)Şanlıurfa;D)Trabzon;2
+Aşağıdaki illerimizden hangisi iç anadolu bölgesinde yer almaz?;A)Karaman;B)Konya;C)Kayseri;D)Afyon;3
+Dünyanın sayılı barajları arasında sayılan Deriner Barajı hangi ilimizdedir?;A)Antalya;B)Çorum;C)Artvin;D)Elazığ;2

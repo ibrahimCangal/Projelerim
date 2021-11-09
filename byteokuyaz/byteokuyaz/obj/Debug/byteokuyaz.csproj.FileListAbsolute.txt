@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2015\Projects\byteokuyaz\byteokuyaz\bin\Debug\byteokuyaz.exe.config
+d:\belgeler\visual studio 2015\Projects\byteokuyaz\byteokuyaz\bin\Debug\byteokuyaz.exe
+d:\belgeler\visual studio 2015\Projects\byteokuyaz\byteokuyaz\bin\Debug\byteokuyaz.pdb
+d:\belgeler\visual studio 2015\Projects\byteokuyaz\byteokuyaz\obj\Debug\byteokuyaz.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\byteokuyaz\byteokuyaz\obj\Debug\byteokuyaz.Form1.resources
+d:\belgeler\visual studio 2015\Projects\byteokuyaz\byteokuyaz\obj\Debug\byteokuyaz.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\byteokuyaz\byteokuyaz\obj\Debug\byteokuyaz.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\byteokuyaz\byteokuyaz\obj\Debug\byteokuyaz.exe
+d:\belgeler\visual studio 2015\Projects\byteokuyaz\byteokuyaz\obj\Debug\byteokuyaz.pdb

@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\arastir\arastir\bin\Debug\arastir.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\arastir\arastir\bin\Debug\arastir.exe
+D:\Belgeler\Visual Studio 2019\Projects\arastir\arastir\bin\Debug\arastir.pdb
+D:\Belgeler\Visual Studio 2019\Projects\arastir\arastir\obj\Debug\arastir.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\arastir\arastir\obj\Debug\arastir.arastirfrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\arastir\arastir\obj\Debug\arastir.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\arastir\arastir\obj\Debug\arastir.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\arastir\arastir\obj\Debug\arastir.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\arastir\arastir\obj\Debug\arastir.exe
+D:\Belgeler\Visual Studio 2019\Projects\arastir\arastir\obj\Debug\arastir.pdb

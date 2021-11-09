@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2015\Projects\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.exe.config
+d:\belgeler\visual studio 2015\Projects\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.exe
+d:\belgeler\visual studio 2015\Projects\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.pdb
+d:\belgeler\visual studio 2015\Projects\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.diFrm.resources
+d:\belgeler\visual studio 2015\Projects\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.exe
+d:\belgeler\visual studio 2015\Projects\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.pdb

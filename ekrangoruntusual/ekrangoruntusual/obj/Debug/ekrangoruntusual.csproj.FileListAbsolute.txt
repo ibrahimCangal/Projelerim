@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\ekrangoruntusual\ekrangoruntusual\bin\Debug\ekrangoruntusual.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\ekrangoruntusual\ekrangoruntusual\bin\Debug\ekrangoruntusual.exe
+D:\Belgeler\Visual Studio 2019\Projects\ekrangoruntusual\ekrangoruntusual\bin\Debug\ekrangoruntusual.pdb
+D:\Belgeler\Visual Studio 2019\Projects\ekrangoruntusual\ekrangoruntusual\obj\Debug\ekrangoruntusual.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\ekrangoruntusual\ekrangoruntusual\obj\Debug\ekrangoruntusual.ekranfrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\ekrangoruntusual\ekrangoruntusual\obj\Debug\ekrangoruntusual.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\ekrangoruntusual\ekrangoruntusual\obj\Debug\ekrangoruntusual.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\ekrangoruntusual\ekrangoruntusual\obj\Debug\ekrangoruntusual.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\ekrangoruntusual\ekrangoruntusual\obj\Debug\ekrangoruntusual.exe
+D:\Belgeler\Visual Studio 2019\Projects\ekrangoruntusual\ekrangoruntusual\obj\Debug\ekrangoruntusual.pdb

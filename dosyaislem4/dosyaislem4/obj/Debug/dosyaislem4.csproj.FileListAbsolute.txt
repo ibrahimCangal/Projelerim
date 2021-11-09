@@ -1,0 +1,11 @@
+d:\belgeler\visual studio 2015\Projects\dosyaislem4\dosyaislem4\bin\Debug\dosyaislem4.exe.config
+d:\belgeler\visual studio 2015\Projects\dosyaislem4\dosyaislem4\bin\Debug\dosyaislem4.exe
+d:\belgeler\visual studio 2015\Projects\dosyaislem4\dosyaislem4\bin\Debug\dosyaislem4.pdb
+d:\belgeler\visual studio 2015\Projects\dosyaislem4\dosyaislem4\obj\Debug\dosyaislem4.Form1.resources
+d:\belgeler\visual studio 2015\Projects\dosyaislem4\dosyaislem4\obj\Debug\dosyaislem4.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\dosyaislem4\dosyaislem4\obj\Debug\dosyaislem4.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\dosyaislem4\dosyaislem4\obj\Debug\dosyaislem4.exe
+d:\belgeler\visual studio 2015\Projects\dosyaislem4\dosyaislem4\obj\Debug\dosyaislem4.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaislem4\dosyaislem4\bin\Debug\dosyaislem4.exe.config
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaislem4\dosyaislem4\obj\Debug\dosyaislem4.exe
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaislem4\dosyaislem4\obj\Debug\dosyaislem4.pdb

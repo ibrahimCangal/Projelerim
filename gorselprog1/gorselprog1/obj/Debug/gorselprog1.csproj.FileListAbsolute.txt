@@ -1,0 +1,18 @@
+d:\belgeler\visual studio 2015\Projects\gorselprog1\gorselprog1\bin\Debug\gorselprog1.exe.config
+d:\belgeler\visual studio 2015\Projects\gorselprog1\gorselprog1\bin\Debug\gorselprog1.exe
+d:\belgeler\visual studio 2015\Projects\gorselprog1\gorselprog1\bin\Debug\gorselprog1.pdb
+d:\belgeler\visual studio 2015\Projects\gorselprog1\gorselprog1\obj\Debug\gorselprog1.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\gorselprog1\gorselprog1\obj\Debug\gorselprog1.Form1.resources
+d:\belgeler\visual studio 2015\Projects\gorselprog1\gorselprog1\obj\Debug\gorselprog1.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\gorselprog1\gorselprog1\obj\Debug\gorselprog1.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\gorselprog1\gorselprog1\obj\Debug\gorselprog1.exe
+d:\belgeler\visual studio 2015\Projects\gorselprog1\gorselprog1\obj\Debug\gorselprog1.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\gorselprog1\gorselprog1\bin\Debug\gorselprog1.exe.config
+C:\Users\ibrahim\Desktop\görsel programlama\gorselprog1\gorselprog1\obj\Debug\gorselprog1.exe
+C:\Users\ibrahim\Desktop\görsel programlama\gorselprog1\gorselprog1\obj\Debug\gorselprog1.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\gorselprog1\gorselprog1\bin\Debug\gorselprog1.exe
+C:\Users\ibrahim\Desktop\görsel programlama\gorselprog1\gorselprog1\bin\Debug\gorselprog1.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\gorselprog1\gorselprog1\obj\Debug\gorselprog1.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Desktop\görsel programlama\gorselprog1\gorselprog1\obj\Debug\gorselprog1.Form1.resources
+C:\Users\ibrahim\Desktop\görsel programlama\gorselprog1\gorselprog1\obj\Debug\gorselprog1.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\görsel programlama\gorselprog1\gorselprog1\obj\Debug\gorselprog1.csproj.GenerateResource.Cache

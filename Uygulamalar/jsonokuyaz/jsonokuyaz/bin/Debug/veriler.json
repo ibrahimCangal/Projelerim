@@ -1,0 +1,19 @@
+{
+  "Table": [
+    {
+      "numara": "20",
+      "adsoyad": "Osman Çetin",
+      "bolum": "Bilgisayar"
+    },
+    {
+      "numara": "21",
+      "adsoyad": "Halime Betim",
+      "bolum": "Elektrik"
+    },
+    {
+      "numara": "22",
+      "adsoyad": "Cengiz Koç",
+      "bolum": "Bilgisayar"
+    }
+  ]
+}

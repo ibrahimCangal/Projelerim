@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <numara>11</numara>
+    <adsoyad>Ahmet</adsoyad>
+    <bolum>Bilgisayar</bolum>
+  </Table>
+  <Table>
+    <numara>12</numara>
+    <adsoyad>Sema</adsoyad>
+    <bolum>Acar</bolum>
+  </Table>
+  <Table>
+    <numara>13</numara>
+    <adsoyad>Ata</adsoyad>
+    <bolum>Benli</bolum>
+  </Table>
+</NewDataSet>

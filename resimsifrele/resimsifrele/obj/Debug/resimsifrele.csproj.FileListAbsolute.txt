@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2015\Projects\resimsifrele\resimsifrele\bin\Debug\resimsifrele.exe.config
+d:\belgeler\visual studio 2015\Projects\resimsifrele\resimsifrele\bin\Debug\resimsifrele.exe
+d:\belgeler\visual studio 2015\Projects\resimsifrele\resimsifrele\bin\Debug\resimsifrele.pdb
+d:\belgeler\visual studio 2015\Projects\resimsifrele\resimsifrele\obj\Debug\resimsifrele.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\resimsifrele\resimsifrele\obj\Debug\resimsifrele.Form1.resources
+d:\belgeler\visual studio 2015\Projects\resimsifrele\resimsifrele\obj\Debug\resimsifrele.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\resimsifrele\resimsifrele\obj\Debug\resimsifrele.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\resimsifrele\resimsifrele\obj\Debug\resimsifrele.exe
+d:\belgeler\visual studio 2015\Projects\resimsifrele\resimsifrele\obj\Debug\resimsifrele.pdb

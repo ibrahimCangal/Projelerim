@@ -1,0 +1,46 @@
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\bin\Debug\mp3calar.exe.config
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\bin\Debug\mp3calar.exe
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\bin\Debug\mp3calar.pdb
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\mp3calar.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\mp3calar.Form1.resources
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\mp3calar.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\mp3calar.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\mp3calar.exe
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\mp3calar.pdb
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\Interop.WMPLib.dll
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\mp3calar.csproj.ResolveComReference.cache
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\Interop.MediaPlayer.dll
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\Interop.WMLSS.dll
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\Interop.WMPDXMLib.dll
+d:\belgeler\visual studio 2015\Projects\mp3calar\mp3calar\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\bin\Debug\mp3calar.exe.config
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\Interop.WMLSS.dll
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\Interop.WMPLib.dll
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.csproj.ResolveComReference.cache
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.exe
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\bin\Debug\mp3calar.exe
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\bin\Debug\mp3calar.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.Form1.resources
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.csproj.GenerateResource.Cache
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\bin\Debug\mp3calar.exe.config
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\bin\Debug\mp3calar.exe
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\bin\Debug\mp3calar.pdb
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\Interop.WMLSS.dll
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\Interop.WMPLib.dll
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.csproj.ResolveComReference.cache
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.Form1.resources
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.csproj.GenerateResource.cache
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.exe
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\mp3calar\mp3calar\obj\Debug\mp3calar.pdb

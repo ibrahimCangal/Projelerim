@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\xmlokuyaz\xmlokuyaz\bin\Debug\xmlokuyaz.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\xmlokuyaz\xmlokuyaz\bin\Debug\xmlokuyaz.exe
+D:\Belgeler\Visual Studio 2019\Projects\xmlokuyaz\xmlokuyaz\bin\Debug\xmlokuyaz.pdb
+D:\Belgeler\Visual Studio 2019\Projects\xmlokuyaz\xmlokuyaz\obj\Debug\xmlokuyaz.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\xmlokuyaz\xmlokuyaz\obj\Debug\xmlokuyaz.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\xmlokuyaz\xmlokuyaz\obj\Debug\xmlokuyaz.xmlfrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\xmlokuyaz\xmlokuyaz\obj\Debug\xmlokuyaz.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\xmlokuyaz\xmlokuyaz\obj\Debug\xmlokuyaz.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\xmlokuyaz\xmlokuyaz\obj\Debug\xmlokuyaz.exe
+D:\Belgeler\Visual Studio 2019\Projects\xmlokuyaz\xmlokuyaz\obj\Debug\xmlokuyaz.pdb

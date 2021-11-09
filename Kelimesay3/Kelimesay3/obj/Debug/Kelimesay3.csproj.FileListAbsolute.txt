@@ -1,0 +1,8 @@
+d:\belgeler\visual studio 2015\Projects\Kelimesay3\Kelimesay3\bin\Debug\Kelimesay3.exe.config
+d:\belgeler\visual studio 2015\Projects\Kelimesay3\Kelimesay3\bin\Debug\Kelimesay3.exe
+d:\belgeler\visual studio 2015\Projects\Kelimesay3\Kelimesay3\bin\Debug\Kelimesay3.pdb
+d:\belgeler\visual studio 2015\Projects\Kelimesay3\Kelimesay3\obj\Debug\Kelimesay3.Form1.resources
+d:\belgeler\visual studio 2015\Projects\Kelimesay3\Kelimesay3\obj\Debug\Kelimesay3.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\Kelimesay3\Kelimesay3\obj\Debug\Kelimesay3.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\Kelimesay3\Kelimesay3\obj\Debug\Kelimesay3.exe
+d:\belgeler\visual studio 2015\Projects\Kelimesay3\Kelimesay3\obj\Debug\Kelimesay3.pdb

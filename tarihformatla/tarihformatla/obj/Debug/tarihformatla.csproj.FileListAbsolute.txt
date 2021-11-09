@@ -1,0 +1,9 @@
+d:\belgeler\visual studio 2015\Projects\tarihformatla\tarihformatla\bin\Debug\tarihformatla.exe.config
+d:\belgeler\visual studio 2015\Projects\tarihformatla\tarihformatla\bin\Debug\tarihformatla.exe
+d:\belgeler\visual studio 2015\Projects\tarihformatla\tarihformatla\bin\Debug\tarihformatla.pdb
+d:\belgeler\visual studio 2015\Projects\tarihformatla\tarihformatla\obj\Debug\tarihformatla.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\tarihformatla\tarihformatla\obj\Debug\tarihformatla.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\tarihformatla\tarihformatla\obj\Debug\tarihformatla.tarihFrm.resources
+d:\belgeler\visual studio 2015\Projects\tarihformatla\tarihformatla\obj\Debug\tarihformatla.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\tarihformatla\tarihformatla\obj\Debug\tarihformatla.exe
+d:\belgeler\visual studio 2015\Projects\tarihformatla\tarihformatla\obj\Debug\tarihformatla.pdb

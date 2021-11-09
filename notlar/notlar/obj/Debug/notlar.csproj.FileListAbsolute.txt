@@ -1,0 +1,21 @@
+d:\belgeler\visual studio 2015\Projects\notlar\notlar\bin\Debug\notlar.exe.config
+d:\belgeler\visual studio 2015\Projects\notlar\notlar\bin\Debug\notlar.exe
+d:\belgeler\visual studio 2015\Projects\notlar\notlar\bin\Debug\notlar.pdb
+d:\belgeler\visual studio 2015\Projects\notlar\notlar\obj\Debug\notlar.Form1.resources
+d:\belgeler\visual studio 2015\Projects\notlar\notlar\obj\Debug\notlar.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\notlar\notlar\obj\Debug\notlar.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\notlar\notlar\obj\Debug\notlar.exe
+d:\belgeler\visual studio 2015\Projects\notlar\notlar\obj\Debug\notlar.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\notlar\notlar\bin\Debug\notlar.exe.config
+C:\Users\ibrahim\Desktop\görsel programlama\notlar\notlar\obj\Debug\notlar.exe
+C:\Users\ibrahim\Desktop\görsel programlama\notlar\notlar\obj\Debug\notlar.pdb
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\notlar\notlar\bin\Debug\notlar.exe.config
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\notlar\notlar\bin\Debug\notlar.exe
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\notlar\notlar\bin\Debug\notlar.pdb
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\notlar\notlar\obj\Debug\notlar.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\notlar\notlar\obj\Debug\notlar.Form1.resources
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\notlar\notlar\obj\Debug\notlar.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\notlar\notlar\obj\Debug\notlar.csproj.GenerateResource.cache
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\notlar\notlar\obj\Debug\notlar.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\notlar\notlar\obj\Debug\notlar.exe
+C:\Users\ibrahim\Desktop\pc\dersler\1.sınıf\2. dönem\görsel programlama\notlar\notlar\obj\Debug\notlar.pdb

@@ -1,0 +1,18 @@
+d:\belgeler\visual studio 2015\Projects\renklisiyahbeyaz\renklisiyahbeyaz\bin\Debug\renklisiyahbeyaz.exe.config
+d:\belgeler\visual studio 2015\Projects\renklisiyahbeyaz\renklisiyahbeyaz\bin\Debug\renklisiyahbeyaz.exe
+d:\belgeler\visual studio 2015\Projects\renklisiyahbeyaz\renklisiyahbeyaz\bin\Debug\renklisiyahbeyaz.pdb
+d:\belgeler\visual studio 2015\Projects\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.csprojResolveAssemblyReference.cache
+d:\belgeler\visual studio 2015\Projects\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.Form1.resources
+d:\belgeler\visual studio 2015\Projects\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.Properties.Resources.resources
+d:\belgeler\visual studio 2015\Projects\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2015\Projects\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.exe
+d:\belgeler\visual studio 2015\Projects\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\renklisiyahbeyaz\renklisiyahbeyaz\bin\Debug\renklisiyahbeyaz.exe.config
+C:\Users\ibrahim\Desktop\görsel programlama\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.exe
+C:\Users\ibrahim\Desktop\görsel programlama\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\renklisiyahbeyaz\renklisiyahbeyaz\bin\Debug\renklisiyahbeyaz.exe
+C:\Users\ibrahim\Desktop\görsel programlama\renklisiyahbeyaz\renklisiyahbeyaz\bin\Debug\renklisiyahbeyaz.pdb
+C:\Users\ibrahim\Desktop\görsel programlama\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Desktop\görsel programlama\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.Form1.resources
+C:\Users\ibrahim\Desktop\görsel programlama\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\görsel programlama\renklisiyahbeyaz\renklisiyahbeyaz\obj\Debug\renklisiyahbeyaz.csproj.GenerateResource.Cache

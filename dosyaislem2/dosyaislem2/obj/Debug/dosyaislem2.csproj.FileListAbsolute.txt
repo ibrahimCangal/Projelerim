@@ -1,0 +1,2 @@
+d:\belgeler\visual studio 2015\Projects\dosyaislem2\dosyaislem2\bin\Debug\dosyaislem2.exe.config
+C:\Users\ibrahim\Desktop\görsel programlama\dosyaislem2\dosyaislem2\bin\Debug\dosyaislem2.exe.config

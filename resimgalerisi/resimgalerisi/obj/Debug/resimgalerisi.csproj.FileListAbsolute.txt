@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\resimgalerisi\resimgalerisi\bin\Debug\resimgalerisi.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\resimgalerisi\resimgalerisi\bin\Debug\resimgalerisi.exe
+D:\Belgeler\Visual Studio 2019\Projects\resimgalerisi\resimgalerisi\bin\Debug\resimgalerisi.pdb
+D:\Belgeler\Visual Studio 2019\Projects\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.resimgalerifrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.exe
+D:\Belgeler\Visual Studio 2019\Projects\resimgalerisi\resimgalerisi\obj\Debug\resimgalerisi.pdb
